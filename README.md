@@ -1,5 +1,6 @@
-<p style="text-align: left; padding: 1rem 0 3rem 0;"><img src="https://admin.recoo.app/assets/images/recdb.jpg" width="250" height="auto" alt="Records Database"/></p>
+# Laravel boilerplate
 
+A boilerplate that utilizes Laravel, Livewire, Tailwind CSS, and Alpine.js for the frontend, and provides authentication, user management, and general CRUD functionality.
 A Laravel application designed to maintain a database of movies.
 
 ### Installation
@@ -24,10 +25,6 @@ A Laravel application designed to maintain a database of movies.
 - Role and user permissions. 
 - Caching with Redis when env `CACHE_ENABLED` is set to true and `CACHE_DRIVER` is set to redis.  
 - Static analysis with phpstan.  
-
-### Demo
-<a href="https://admin.recoo.app" target="_blank">RecDB demo website</a>
-
 
 <table>
 <tbody>
